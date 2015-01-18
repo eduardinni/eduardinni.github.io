@@ -2,15 +2,19 @@
   "basics": {
     "name": "Eduardo Lomelí",
     "label": "Full-Stack Developer",
-    "picture": "",
+    "picture": "http://www.gravatar.com/avatar/1a42ff888eb4c942755a0c57c7b95871.png",
     "email": "edo.lomeli@gmail.com",
     "website": "http://eduardinni.github.io",
-    "summary": "A summary of John Doe...",
+    "summary": "I've been developing websites since HTML4, I have extensive experience in developing front-end for web applications using W3-Certified HTML, CSS and Javascript (AJAX & UI) with bandwith-savers and fast delivery tricks.",
     "location": {
       "city": "Mexico City",
       "countryCode": "MX"
     },
     "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "http://mx.linkedin.com/in/edulomeli"
+      },
       {
         "network": "Twitter",
         "username": "eduardinni",
@@ -24,54 +28,95 @@
       {
         "network": "Stackoverflow",
         "url": "http://stackoverflow.com/users/994097/edu-lomeli"
+      },
+      {
+        "network": "AngelList",
+        "url": "https://angel.co/eduardinni"
       }
     ]
   },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
+  "work": [
+    {
+      "company": "Postal52",
+      "position": "Founder & Software Engineer",
+      "website": "http://www.postal52.com",
+      "startDate": "2013-05-01",
+      "endDate": "2015-01-01",
+      "summary": "Implementation of analytics systems, behavioral email campaigns, SEO & Growth Hacks"
+    },
+    {
+      "company": "Mexican Government (Federal Court of Fiscal and Administrative Justice)",
+      "position": "Lead Developer",
+      "website": "http://www.tfjfa.gob.mx",
+      "startDate": "2012-05-15",
+      "endDate": "2013-03-15",
+      "summary": "Real-Time Reporting Tool, measures work done and work-to-be-done from many sources"
+    },
+    {
+      "company": "kutz",
+      "position": "Software Engineer",
+      "website": "http://www.kutz.mx",
+      "startDate": "2010-01-01",
+      "endDate": "2012-04-15",
+      "summary": "Ruby on Rails projects, Mobile websites, HA websites"
+    },
+    {
+      "company": "Instituto Latinoaméricano de la Comunicación Educativa",
+      "position": "Web Developer, Project Manager",
+      "website": "http://www.ilce.edu.mx",
+      "startDate": "2008-01-15",
+      "endDate": "2012-05-15",
+      "summary": "Web developer for High Availability & Critical Mission websites of Mexican government projects"
+    }
+  ],
 
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
+    "institution": "Instituto Politécnico Nacional (ESIME)",
+    "area": "Computer Engineering, Electronics",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2003-08-01",
+    "endDate": "2007-12-12",
+    "gpa": "8.0"
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
+  "skills": [
+    {
+      "name": "Front-End",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "W3C Compliance",
+        "Responsive Web Design",
+        "AngularJS",
+        "ReactJS",
+        "jQuery",
+        "CoffeeScript",
+        "LESS",
+        "SASS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Back-End",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "NodeJS",
+        "PHP",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "Microsoft SQL Server",
+        "MongoDB",
+        "Redis"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
@@ -82,11 +127,22 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }]
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Rock",
+        "Indie",
+        "Turntables & Vinyls"
+      ]
+    },
+    {
+      "name": "Art",
+      "keywords": [
+        "Photography",
+        "Modern Art",
+        "Design trends"
+      ]
+    }
+  ]
 }

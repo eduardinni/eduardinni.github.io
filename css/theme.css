@@ -71,6 +71,7 @@ h2 {
 
 .section-title {
   padding-top: 60px;
+  padding-bottom: 20px;
 }
 
 .navbar-main {
@@ -94,4 +95,8 @@ h2 {
 
 .row-footer {
   padding-bottom: 100px;
+}
+
+.row-jsonresume {
+  margin-top: 40px;
 }
